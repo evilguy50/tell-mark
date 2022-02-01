@@ -41,4 +41,4 @@ format code: 1 : and the code ":dark red: I am the color dark red"
 selector: 1 * or _ "*player name*" or "_player name_"
 score:
     
-    url "[ name ]( board )" without the spaces
+    url "[name](board)"
