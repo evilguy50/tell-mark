@@ -1,0 +1,1 @@
+tellraw @a[tag=color] {"rawtext":[{"text":"§4this text is dark red\n§2this text is dark green\n§1this text is dark blue\n§rthis is a player "},{"selector":"@p"},{"text":" and this is their score in a test scoreboard  "},{"score":{"name": "@p","objective": "test"}}]}

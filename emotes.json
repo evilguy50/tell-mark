@@ -1,0 +1,372 @@
+{
+    "emotes": [
+        {
+            "code": "E100",
+            "name": "food"
+        },
+        {
+            "code": "E101",
+            "name": "armor"
+        },
+        {
+            "code": "E102",
+            "name": "minecoin"
+        },
+        {
+            "code": "E103",
+            "name": "agent"
+        },
+        {
+            "code": "E104",
+            "name": "reader"
+        },
+        {
+            "code": "E105",
+            "name": "token"
+        },
+        {
+            "code": "E0A0",
+            "name": "craft-on"
+        },
+        {
+            "code": "E0A1",
+            "name": "craft-off"
+        },
+        {
+            "code": "E084",
+            "name": "jump"
+        },
+        {
+            "code": "E085",
+            "name": "sneak"
+        },
+        {
+            "code": "E086",
+            "name": "fly-up"
+        },
+        {
+            "code": "E087",
+            "name": "fly-down"
+        },
+        {
+            "code": "E081",
+            "name": "l-arrow"
+        },
+        {
+            "code": "E083",
+            "name": "r-arrow"
+        },
+        {
+            "code": "E080",
+            "name": "u-arrow"
+        },
+        {
+            "code": "E082",
+            "name": "d-arrow"
+        },
+        {
+            "code": "E060",
+            "name": "l-click"
+        },
+        {
+            "code": "E061",
+            "name": "r-click"
+        },
+        {
+            "code": "E062",
+            "name": "m-click"
+        },
+        {
+            "code": "E003",
+            "name": "xbox-y"
+        },
+        {
+            "code": "E001",
+            "name": "xbox-b"
+        },
+        {
+            "code": "E000",
+            "name": "xbox-a"
+        },
+        {
+            "code": "E002",
+            "name": "xbox-x"
+        },
+        {
+            "code": "E008",
+            "name": "xbox-back"
+        },
+        {
+            "code": "E009",
+            "name": "xbox-start"
+        },
+        {
+            "code": "E004",
+            "name": "xbox-lb"
+        },
+        {
+            "code": "E005",
+            "name": "xbox-rb"
+        },
+        {
+            "code": "E006",
+            "name": "xbox-lt"
+        },
+        {
+            "code": "E007",
+            "name": "xbox-rt"
+        },
+        {
+            "code": "E00A",
+            "name": "xbox-ls"
+        },
+        {
+            "code": "E00B",
+            "name": "xbox-rs"
+        },
+        {
+            "code": "E00C",
+            "name": "xbox-d-u"
+        },
+        {
+            "code": "E00F",
+            "name": "xbox-d-r"
+        },
+        {
+            "code": "E00E",
+            "name": "xbox-d-d"
+        },
+        {
+            "code": "E00D",
+            "name": "xbox-d-l"
+        },
+        {
+            "code": "E042",
+            "name": "switch-x"
+        },
+        {
+            "code": "E040",
+            "name": "switch-a"
+        },
+        {
+            "code": "E041",
+            "name": "switch-b"
+        },
+        {
+            "code": "E043",
+            "name": "switch-y"
+        },
+        {
+            "code": "E049",
+            "name": "switch+"
+        },
+        {
+            "code": "E048",
+            "name": "switch-"
+        },
+        {
+            "code": "E044",
+            "name": "switch-lb"
+        },
+        {
+            "code": "E045",
+            "name": "switch-rb"
+        },
+        {
+            "code": "E046",
+            "name": "switch-lt"
+        },
+        {
+            "code": "E047",
+            "name": "switch-rt"
+        },
+        {
+            "code": "E04A",
+            "name": "switch-ls"
+        },
+        {
+            "code": "E04B",
+            "name": "switch-rs"
+        },
+        {
+            "code": "E04C",
+            "name": "switch-d-u"
+        },
+        {
+            "code": "E04F",
+            "name": "switch-d-r"
+        },
+        {
+            "code": "E04E",
+            "name": "switch-d-d"
+        },
+        {
+            "code": "E04D",
+            "name": "switch-d-l"
+        },
+        {
+            "code": "E023",
+            "name": "ps-triangle"
+        },
+        {
+            "code": "E021",
+            "name": "ps-circle"
+        },
+        {
+            "code": "E020",
+            "name": "ps-cross"
+        },
+        {
+            "code": "E022",
+            "name": "ps-square"
+        },
+        {
+            "code": "E029",
+            "name": "ps-share"
+        },
+        {
+            "code": "E028",
+            "name": "ps-pad"
+        },
+        {
+            "code": "E024",
+            "name": "ps-lb"
+        },
+        {
+            "code": "E025",
+            "name": "ps-rb"
+        },
+        {
+            "code": "E026",
+            "name": "ps-lt"
+        },
+        {
+            "code": "E027",
+            "name": "ps-rt"
+        },
+        {
+            "code": "E02A",
+            "name": "ps-ls"
+        },
+        {
+            "code": "E02B",
+            "name": "ps-rs"
+        },
+        {
+            "code": "E02C",
+            "name": "ps-d-u"
+        },
+        {
+            "code": "E02F",
+            "name": "ps-d-r"
+        },
+        {
+            "code": "E02E",
+            "name": "ps-d-d"
+        },
+        {
+            "code": "E02D",
+            "name": "ps-d-l"
+        },
+        {
+            "code": "E0E0",
+            "name": "rift-zero"
+        },
+        {
+            "code": "E0E2",
+            "name": "rift-b"
+        },
+        {
+            "code": "E0E1",
+            "name": "rift-a"
+        },
+        {
+            "code": "E0EA",
+            "name": "rift-y"
+        },
+        {
+            "code": "E0E9",
+            "name": "rift-x"
+        },
+        {
+            "code": "E0E3",
+            "name": "rift-lg"
+        },
+        {
+            "code": "E0E4",
+            "name": "rift-rg"
+        },
+        {
+            "code": "E0E7",
+            "name": "rift-lt"
+        },
+        {
+            "code": "E0E8",
+            "name": "rift-rt"
+        },
+        {
+            "code": "E0E5",
+            "name": "rift-ls"
+        },
+        {
+            "code": "E0E6",
+            "name": "rift-rs"
+        },
+        {
+            "code": "E0C2",
+            "name": "mr-menu"
+        },
+        {
+            "code": "E0CD",
+            "name": "mr-win"
+        },
+        {
+            "code": "E0C5",
+            "name": "mr-padl"
+        },
+        {
+            "code": "E0C6",
+            "name": "mr-padl-h"
+        },
+        {
+            "code": "E0C7",
+            "name": "mr-padl-v"
+        },
+        {
+            "code": "E0C8",
+            "name": "mr-padr"
+        },
+        {
+            "code": "E0C9",
+            "name": "mr-padr-h"
+        },
+        {
+            "code": "E0CA",
+            "name": "mr-padr-v"
+        },
+        {
+            "code": "E0CB",
+            "name": "mr-lt"
+        },
+        {
+            "code": "E0CC",
+            "name": "mr-rt"
+        },
+        {
+            "code": "E0C0",
+            "name": "mr-lg"
+        },
+        {
+            "code": "E0C1",
+            "name": "mr-rg"
+        },
+        {
+            "code": "E0C3",
+            "name": "mr-ls"
+        },
+        {
+            "code": "E0C4",
+            "name": "mr-rs"
+        }
+    ]
+}
